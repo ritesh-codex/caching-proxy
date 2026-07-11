@@ -1,0 +1,14 @@
+{
+  "name": "proxy_server",
+  "version": "1.0.0",
+  "description": "learning http",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ritesh shinde",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
